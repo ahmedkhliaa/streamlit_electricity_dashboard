@@ -77,6 +77,3 @@ elif chart_type == "Step Chart":
     fig.update_yaxes(title_text = "Electricity Marketprice (€/Mwh)")
     fig.update_traces(hovertemplate='Timestamp: %{x|%Y-%m-%d %H:%M}<br>Marketprice: %{y} €/MWh')
     st.plotly_chart(fig, use_container_width=True)
-
-# Footer note
-st.markdown("Data source and processing handled in separate scripts.")
