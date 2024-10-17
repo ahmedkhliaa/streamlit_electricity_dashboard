@@ -6,7 +6,7 @@ This Streamlit app provides a dynamic and interactive dashboard for visualizing 
 
 - **Customizable Date and Time Filters**: Select specific date ranges and hourly intervals to view electricity prices over multiple time frames.
 - **Interactive Visualizations**: Choose between bar and step chart visualizations to explore the data interactively.
-- **Data Source Integration**: The app seamlessly fetches electricity price data from the AWATT API and processes it for display.
+- **Data Source Integration**: The app seamlessly fetches electricity price data from the Awattar API-Datenfeed and processes it for display.
 
 ## Installation
 
