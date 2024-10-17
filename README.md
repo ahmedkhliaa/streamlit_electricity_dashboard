@@ -2,6 +2,8 @@
 
 This Streamlit app provides a dynamic and interactive dashboard for visualizing electricity prices. It fetches data from the Awattar API-Datenfeed: https://www.awattar.at/services/api and allows users to explore price trends over customizable date and time ranges. Users can switch between different visualization types to suit their preferences.
 
+![App Demo](docs/app_demo.gif)
+
 ## Features
 
 - **Customizable Date and Time Filters**: Select specific date ranges and hourly intervals to view electricity prices over multiple time frames.
